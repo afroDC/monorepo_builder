@@ -1,0 +1,17 @@
+{
+    "defaults": [
+       "example-a"
+    ],
+    "projects": {
+       "all": [
+          "shared_library/",
+          "shared-environment.json"
+       ],
+       "example-a": [
+          "example-a/"
+       ],
+       "example-b": [
+          "example-b/"
+       ]
+    }
+ }
